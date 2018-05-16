@@ -4,6 +4,5 @@ Playing around with erc721 cryptokitties code
 ## Instalation
 TestRPC
 
-'''
-npm install -g ethereumjs-testrpc
-'''
+` npm install -g ethereumjs-testrpc `
+
