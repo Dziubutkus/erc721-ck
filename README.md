@@ -17,7 +17,7 @@ Open cmd.exe
 ```
 testrpc
 ```
-Open another next cmd.exe
+Open another cmd.exe
 ```
 truffle test ./test/Ownable.js <- (Your test file)
 ```
